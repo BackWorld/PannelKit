@@ -1,0 +1,6 @@
+framework module PannelKit {
+  umbrella header "PannelKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

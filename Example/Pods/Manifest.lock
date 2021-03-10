@@ -1,0 +1,23 @@
+PODS:
+  - BWListKit (0.0.1)
+  - PannelKit (0.0.1):
+    - BWListKit
+
+DEPENDENCIES:
+  - PannelKit (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - BWListKit
+
+EXTERNAL SOURCES:
+  PannelKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BWListKit: f1bbd00f23318fa0806a73560e3c617f54cdd500
+  PannelKit: 42ecab9fb136c22b644dc6ccfaa73665ba1762ec
+
+PODFILE CHECKSUM: 82ab2a6eb53e9f445041842b04969971f950e704
+
+COCOAPODS: 1.10.1

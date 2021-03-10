@@ -1,0 +1,6 @@
+framework module Pods_PannelKit_Example {
+  umbrella header "Pods-PannelKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

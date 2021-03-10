@@ -1,0 +1,27 @@
+{
+  "name": "PannelKit",
+  "version": "0.0.1",
+  "summary": "A short description of PannelKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/BackWorld/PannelKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "BackWorld": "1906457616@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/BackWorld/PannelKit.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "PannelKit/Classes/**/*",
+  "dependencies": {
+    "BWListKit": [
+
+    ]
+  }
+}
